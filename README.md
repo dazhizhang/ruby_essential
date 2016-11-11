@@ -61,3 +61,17 @@ end
 
 动态语言特性 blcok，proc，lambda，yield
 http://rubyer.me/blog/917/
+
+网站：
+
+http://ruby-doc.org/
+
+http://rspec.info/
+
+http://tryruby.org/
+
+http://www.tutorialspoint.com/ruby/
+
+http://www.saasbook.info/students
+
+http://guides.ruby-china.org/
